@@ -1,0 +1,5 @@
+TODO:
+--------------
+WORKS - 	Make Equip/UnEquip work 
+Make so instead of alert/confirm you use a proper modal
+Make so fights work

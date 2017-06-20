@@ -1,0 +1,13 @@
+====== CITIES/TOWNS ======
+Osli - A small village where the player is from. In a forest.
+	- Living District, where everyone who doesn't live in their shop lives.
+		- Player Home, A small two room cottage.
+		- 
+
+
+
+
+
+====== Diseases ======
+Soulrot - Rots the soul of the victim. Makes it harder to get to a good afterlife. Created by a foul lich.
+Bonerot - Rots the bones of the victim. Making it slowly harder to move and bones easier to break. Has varying stages which it may stop at. Can lead to death if it doesn't stop at a stage.

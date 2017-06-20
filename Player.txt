@@ -1,0 +1,20 @@
+Player
+	- name, 'text'
+	- health, [min, max]
+	- inventory, [...items]
+		- Equipped
+			- Head 
+				- Helmet/Hat/Tiara
+			- Body
+				- Chestpiece, Chainmail, Shirt
+			- Arms
+				- Armgaurds
+			- Hands
+				- Gloves
+			- Decor
+				- Rings, Bracelets, Necklaces, Amulets
+			- Legs
+				- Leggaurds
+			- Feet
+				- Boots, Shoes	
+	- itemID, <num>
